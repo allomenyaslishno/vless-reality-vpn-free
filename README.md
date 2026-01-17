@@ -32,7 +32,7 @@
 * 🔑 **Технологии:** Обход блокировок DPI, полная маскировка трафика.
 
 ### Как подключиться?
-1. Перейдите в нашего бота: [**@ВАШ_ЮЗЕРНЕЙМ_БОТА**](@ALLOMENYASLISHNO_bot).
+1. Перейдите в нашего бота: [**@ALLOMENYASLISHNO_bot**](@ALLOMENYASLISHNO_bot).
 2. Нажмите кнопку **"Старт"** или **"Получить VPN"**.
 3. Бот выдаст вам личный ключ доступа.
 4. Скопируйте ключ в приложение (V2RayNG, Streisand, Outline, FoXray).
@@ -51,7 +51,7 @@ High-speed free VPN service managed via Telegram bot. Bypass censorship and stay
 * **Bypass DPI:** Works in regions with heavy censorship (Russia, China, Iran).
 
 ### How to use
-1. Open the bot: [**@YOUR_BOT_USERNAME**](@ALLOMENYASLISHNO_bot).
+1. Open the bot: [**@ALLOMENYASLISHNO_bot**](@ALLOMENYASLISHNO_bot).
 2. Click **Start**.
 3. Get your connection key immediately.
 
