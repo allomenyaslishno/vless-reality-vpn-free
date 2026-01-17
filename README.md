@@ -1,4 +1,3 @@
-# vless-reality-vpn-free
 # 🚀 Free VPN Telegram Bot (VLESS / Reality / WireGuard)
 
 [**🇷🇺 ЧИТАТЬ НА РУССКОМ**](#russian) | [**🇬🇧 ENGLISH VERSION**](#english)
@@ -9,12 +8,12 @@
   ![Speed](https://img.shields.io/badge/Speed-High-blue?style=for-the-badge)
   ![Free](https://img.shields.io/badge/Price-FREE-orange?style=for-the-badge)
 
-  # 🔥 [ЗАПУСТИТЬ VPN БОТА / START BOT](@ALLOMENYASLISHNO_bot) 🔥
+  # 🔥 [ЗАПУСТИТЬ VPN БОТА / START BOT](https://t.me/ВАШ_ЮЗЕРНЕЙМ_БОТА) 🔥
   
   ### Самый быстрый и бесплатный VPN прямо в Telegram.
   ### Без рекламы. Без регистрации. В один клик.
   
-  [👉 ПОЛУЧИТЬ КЛЮЧ / GET KEY 👈](@ALLOMENYASLISHNO_bot)
+  [👉 ПОЛУЧИТЬ КЛЮЧ / GET KEY 👈](https://t.me/ВАШ_ЮЗЕРНЕЙМ_БОТА)
 </div>
 
 ---
@@ -32,7 +31,7 @@
 * 🔑 **Технологии:** Обход блокировок DPI, полная маскировка трафика.
 
 ### Как подключиться?
-1. Перейдите в нашего бота: [**@ALLOMENYASLISHNO_bot**](@ALLOMENYASLISHNO_bot).
+1. Перейдите в нашего бота: [**@ALLOMENYASLISHNO_bot**](https://t.me/@ALLOMENYASLISHNO_bot).
 2. Нажмите кнопку **"Старт"** или **"Получить VPN"**.
 3. Бот выдаст вам личный ключ доступа.
 4. Скопируйте ключ в приложение (V2RayNG, Streisand, Outline, FoXray).
@@ -51,7 +50,7 @@ High-speed free VPN service managed via Telegram bot. Bypass censorship and stay
 * **Bypass DPI:** Works in regions with heavy censorship (Russia, China, Iran).
 
 ### How to use
-1. Open the bot: [**@ALLOMENYASLISHNO_bot**](@ALLOMENYASLISHNO_bot).
+1. Open the bot: [**@ALLOMENYASLISHNO_bot**](https://t.me/@ALLOMENYASLISHNO_bot).
 2. Click **Start**.
 3. Get your connection key immediately.
 
