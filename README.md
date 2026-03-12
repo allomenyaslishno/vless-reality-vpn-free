@@ -50,7 +50,7 @@ High-speed free VPN service managed via Telegram bot. Bypass censorship and stay
 * **Bypass DPI:** Works in regions with heavy censorship (Russia, China, Iran).
 
 ### How to use
-1. Open the bot: [**@ALLOMENYASLISHNO_bot**](https://t.me/@ALLOMENYASLISHNO_bot).
+1. Open the bot: [**Здесь!**](https://t.me/@ALLOMENYASLISHNO_bot).
 2. Click **Start**.
 3. Get your connection key immediately.
 
