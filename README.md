@@ -13,7 +13,7 @@
   ### Самый быстрый и бесплатный VPN прямо в Telegram.
   ### Без рекламы. Без регистрации. В один клик.
   
-  [👉 ПОЛУЧИТЬ КЛЮЧ / GET KEY 👈](https://t.me/ALLOMENYASLISHNO_bot)
+  [👉 ПОЛУЧИТЬ КЛЮЧ / GET KEY 👈](https://t.me/@ALLOMENYASLISHNO_bot)
 </div>
 
 ---
